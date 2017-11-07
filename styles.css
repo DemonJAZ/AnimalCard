@@ -1,0 +1,18 @@
+/* add your CSS here */
+img{
+  height: 50%;
+  width: 100%;
+}
+
+div.details{
+  border-style: solid;
+  border-width: 1px;
+}
+
+p{
+  margin: 5px;
+}
+
+ul{
+  list-style: none;
+}
