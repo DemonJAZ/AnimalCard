@@ -1,16 +1,31 @@
 /* add your CSS here */
-img{
-  height: 50%;
-  width: 100%;
+div.card{
+  border-style: solid;
+  border-width: 2px;
+  box-shadow: 10px 10px;
+  width: 320px;
 }
 
 div.details{
   border-style: solid;
   border-width: 1px;
+  margin: 5px;
+}
+
+h1{
+  margin: 10px;
+}
+
+img{
+  border-style: solid;
+  border-width: 1px;
+  height: 150px;
+  width: 300px;
+  margin: 10px;
 }
 
 p{
-  margin: 5px;
+  margin: 10px;
 }
 
 ul{
